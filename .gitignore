@@ -1,0 +1,14 @@
+.vs/
+*.sln
+*.vcxproj*
+Debug/
+Release/
+x64/
+Win32/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+.DS_Store
+Thumbs.db
