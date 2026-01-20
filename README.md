@@ -6,6 +6,7 @@
 
 An immersive 3D environment featuring a traditional Japanese Garden, built using C++ and OpenGL to demonstrate advanced computer graphics techniques.
 
+<img src="https://github.com/giuliayes/Graphics_Japanese-Garden/blob/main/Screenshot 2026-01-19 212451.png?raw=true" align="left" width="380" style="margin-right: 20px; border-radius: 10px;">
 
 ### 🌸 Project Overview
 This project focuses on the creation of a serene, procedurally-enhanced Japanese Garden. It serves as a study in **3D modeling, lighting, and environmental rendering**.
